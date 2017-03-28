@@ -1,0 +1,3 @@
+Task: clean (Priority: Someday)
+Meeting: cpscp (Location: herak, Time: now)
+Deadline: hw4 (DueDate: 3/04/16)
